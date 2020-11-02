@@ -1,0 +1,33 @@
+RelSUE
+dbpedia_11b
+[3481293] growingGrape
+dbpedia_21b
+[3480963, -3480963] field, -field
+dbpedia_21o
+[-3480838, 3480835] -director, starring
+dbpedia_22b
+[3480865, -3480865] draftTeam, -draftTeam
+[3480808, -3480808] position, -position
+yago_11b
+[4295834] actedIn
+yago_21b
+[4295855, -4295855, 4295839] graduatedFrom, -graduatedFrom, created
+yago_21o
+[4295853, -4295834] directed, -actedIn
+yago_22b
+[4295854, -4295854] worksAt, -worksAt
+[4295855, -4295855] graduatedFrom, -graduatedFrom
+
+RelSim
+dbpedia
+[3480974] foundedBy
+[3480852] author
+[3480835] starring
+[-3480813] -location
+[-3480845] -album
+yago
+[-4295826] -isLeaderOf
+[-4295839] -created
+[4295834] actedIn
+[-4295829] -isLocatedIn
+[-4295827] -owns
