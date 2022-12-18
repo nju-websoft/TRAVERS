@@ -29,7 +29,6 @@
   - Gold-standard answer entities for each query are in `Data/Semantic`
     - The first line of every two lines contains the ID of a query entity
     - The second line of every two lines contains the IDs of the gold-standard answer entities (the number after the colon can be ignored)
-  - The mappings between entity ID and entity URI are available at xxx
   - To implement a warm start, answer entities presented to the user in the first iteration are in `Data/Semantic/WarmStart/`
     - Directory hierarchy means `"QueryGroup"/"MethPathWeightingMethod"/"QueryLocalID"`
     - In each folder there are two files:
