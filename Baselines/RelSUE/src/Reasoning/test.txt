@@ -1,0 +1,13 @@
+<owl:Class rdf:about="http://dbpedia.org/ontology/fuckX">
+<owl:equivalentClass>
+<owl:Class>
+<owl:intersectionOf rdf:parseType="Collection">
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://dbpedia.org/ontology/magazine"/>
+<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Restriction>
+</owl:intersectionOf>
+</owl:Class>
+</owl:equivalentClass>
+<rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Nothing"/>
+</owl:Class>
